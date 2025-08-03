@@ -28,3 +28,12 @@ Vanilla JavaScript - No frameworks, just pure performance
 Material Design 3 - Google's latest design system
 CSS Grid & Flexbox - Modern, responsive layouts
 Web Standards - Works in all modern browsers
+
+👨‍💻 Author
+Your Name
+
+GitHub: github.com/hamza-tar93)
+LinkedIn: linkedin.com/in/hamza-tariq-93abc/
+
+
+⭐ Star this repo if it helped you schedule your cron jobs!
